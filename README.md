@@ -1,33 +1,50 @@
-<h1>Welcome To Jatri🚗</h1>
-<h2>Want to go on your next trip but can't choose the right car? We have got you! </h2>
-<p>Jatri is a car rental site that allows users to book cars according to their choices. It's not just this; they can update and delete it anytime they want.</p>
+# 🚗 Welcome to Jatri  
 
-<h2>📝Core Features</h2>
-<ul>
-  <li>Browse all the cars in a beautiful card interface.</li>
-  <li>Visualize cars added by the user in a table format, which allows users to update, view, and delete cars easily.</li>
-  <li>Implemented searching and sorting for better car selection.</li>
-  <li>My Cars page shows the user's added cars, and here they can change the booking dates too.</li>
-  <li>Implemented the authentication system with Email/Password and Google login and registration system.</li>
-</ul>
+Want to go on your next trip but can’t decide on the right car?  
+**Jatri** has you covered! It’s a car rental platform where users can book cars, manage their bookings, and update or cancel them anytime.  
 
+---
 
-<h2>👾Technology Store</h2>
-<ul>
-  <h4>*ReactJS</h4>
-  <h4>*ExpressJS</h4>
-  <h4>*MongoDB</h4>
-  <h4>*React Router</h4>
-  <h4>*TailwindCSS</h4>
-  <h4>*Firebase</h4>
-</ul>
+## 📝 Core Features  
+- Browse cars in a beautiful card interface  
+- View, update, and delete your cars in a simple table format  
+- Search and sort cars for easy selection  
+- **My Cars** page to manage your added cars and booking dates  
+- Secure authentication with **Email/Password** and **Google Login**  
 
-<h2>🦾Run Jatri on your own</h2>
-<h4>Step 1: Create a folder named Jatri</h4>
-<h4>Step 2: Open it with VS Code and then open a terminal.</h4>
-<h4>Step 3: Paste the command: <code>git clone https://github.com/nusratmomita/Jatri_Server.git</code>.</h4>
-<h4>Step 4: Download all the dependencies using <code>npm i</code></h4>
-<h4>Step 5: Email me to get the Firebase configurations.</h4>
+---
 
-<h2>😅Got no time? Just use the link below to visit the site</h2>
-<a href="https://jatri-9cc51.web.app/">[Live Link]</a>
+## 👾 Tech Stack  
+- ⚛️ ReactJS  
+- 🚀 ExpressJS  
+- 🍃 MongoDB  
+- 🔀 React Router  
+- 🎨 TailwindCSS  
+- 🔥 Firebase
+
+## 📸 Screenshots  
+> Take a quick look of Aroggo:  
+
+![Screenshot Placeholder](https://i.ibb.co.com/BVGy43Cd/jatri.png)  
+![Screenshot Placeholder](https://i.ibb.co.com/xqbb6NKh/jatri1.png)  
+![Screenshot Placeholder](https://i.ibb.co.com/FLqzcmRQ/jatri2.png)  
+
+---
+
+## 🦾 Run Jatri Locally  
+
+```bash
+# Step 1: Create a folder named Jatri
+mkdir Jatri && cd Jatri
+
+# Step 2: Clone the repository
+git clone https://github.com/nusratmomita/Jatri_Client.git
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Get Firebase configurations
+# 👉 Contact the project owner to receive Firebase credentials
+
+# Step 5: Start the project
+npm start
